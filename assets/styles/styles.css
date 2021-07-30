@@ -4,7 +4,24 @@
 	border-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 #header {
 	background-color: #293B5F;
 	color: #EEEEEE;
+}
+
+#header h1 {
+	font-size: 4rem;
+}
+
+#header h2 {
+	font-size: 3rem;
+	color: #185ADB
+}
+
+#header p {
+	font-size: 2rem;
 }
