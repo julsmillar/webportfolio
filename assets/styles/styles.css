@@ -1,0 +1,10 @@
+* {
+	margin: 0;
+	padding: 0;
+	border-sizing: border-box;
+}
+
+#header {
+	background-color: #293B5F;
+	color: #EEEEEE;
+}
