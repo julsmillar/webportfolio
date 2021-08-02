@@ -195,10 +195,6 @@ section div a {
   color: blue;
 }
 
-/*.section-title {
-  padding-bottom: 30px;
-}*/
-
 .section-title h2 {
   font-size: 32px;
   font-weight: bold;
@@ -330,11 +326,6 @@ section div a {
 .tools .tools-item:last-child {
   padding-bottom: 0;
 }
-
-/* contact section */
-/*.contact {
-  padding-bottom: 130px;
-}*/
 
 .contact .info {
   padding: 30px;
