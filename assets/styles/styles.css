@@ -39,11 +39,23 @@ h1, h2, h3, h4, h5, h6 {
 	overflow-y: auto;
 }
 
-#header .profile img {
+#header .profile #banner-photo {
 	margin: 15px auto;
 	display: block;
 	width: 150px;
 	border: 5px solid lightgray;
+}
+
+#header .profile .socmed-icon {
+  margin-top: 15px;
+  background-color: lightgray;
+  border-radius: 15px;
+}
+
+#header .profile #socmed {
+  margin: 10px;
+  width: 30px;
+  border-radius: 10px;
 }
 
 #header .profile h1 {
@@ -75,7 +87,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /*navigation menu*/
 .nav-menu {
-	padding-top: 30px;
+	padding-top: 40px;
 }
 
 .nav-menu * {
